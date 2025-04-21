@@ -1,2 +1,3 @@
-# MajorProject
-Drishti and Yojna
+# Yojana
+ Created Yojana, a collaborative platform for visually impaired developers, addressing disparities in the software development industry. Built a scalable backend with Python (Flask), capable of handling 1000+ daily API requests with 99.9% uptime, and created a MERN stack frontend that improved performance, reducing page load time by 40%.
+Implemented NLP features (text-to-speech and speech-to-text) using NLTK & spaCy, enhancing accessibility for visually impaired users by 70%. Published research in GIJET, recognized among 285+ published papers in AI accessibility for diverse user groups.
